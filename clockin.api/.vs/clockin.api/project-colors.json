@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4ebdebf-8604-493b-972d-2d8b2030b6c9": {
+      "ProjectGuid": "e4ebdebf-8604-493b-972d-2d8b2030b6c9",
+      "DisplayName": "clockin.api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

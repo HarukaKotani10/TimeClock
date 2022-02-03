@@ -1,0 +1,73 @@
+﻿<Window x:Class="TimeClock.AdminWindow"
+	xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:tools="clr-namespace:TimeClock.Tools"
+        mc:Ignorable="d"
+        Title="AdminWindow"
+        Height="450" 
+        Width="800" 
+        WindowState="Maximized"      
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid>
+        <Grid HorizontalAlignment="Center"
+              Height="88" 
+              Width="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}, Path=ActualWidth}"
+              VerticalAlignment="Top" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid 
+                Grid.Row="0" 
+                Grid.ColumnSpan="2"
+                Background="#6E8292">
+                <Label  
+                    FontSize="23" 
+                    Foreground="#ECF6FD"
+                    Margin="10,0,0,0" 
+                    Width="800" 
+                    HorizontalAlignment="left">
+                    Users
+                </Label>
+                <Button 
+                    HorizontalAlignment="Right" 
+                    BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" 
+                    Foreground="White">
+                    <materialDesign:PackIcon 
+                        Kind="HamburgerMenu" 
+                        Height="20" 
+                        Width="20" 
+                        Margin="0,0,10,0"/>
+                </Button>
+            </Grid>
+            <Button 
+                Grid.Row="1"
+                Style="{StaticResource RoundButtonTemplate}"
+                Width="80"
+                Height="35"
+                BorderBrush="#fff"
+                Name="SignUpButton"
+                Content="Create"
+                Background="#009EDA" 
+                HorizontalAlignment="Left"
+                Margin="10,10,0,0"
+                />
+            <TextBox
+                Grid.Row="1"
+                Grid.Column="1"
+                HorizontalAlignment="Right"       
+                Tag="Search.."
+                Margin="0,5,5,5"
+                BorderThickness="1"
+                Width="200"/>
+        </Grid>
+    </Grid>
+</Window>

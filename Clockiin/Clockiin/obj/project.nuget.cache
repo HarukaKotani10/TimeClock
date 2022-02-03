@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMixl7Dgbo2p0NzJOUZWr4fLP6v4iftFREPlzDxhtuU9MPmYjwwRL6dqioGz8Us5gVdbVoJL0P1IR5VcYJCfAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harukak\\source\\repos\\Clockiin\\Clockiin\\TimeClock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harukak\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\harukak\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

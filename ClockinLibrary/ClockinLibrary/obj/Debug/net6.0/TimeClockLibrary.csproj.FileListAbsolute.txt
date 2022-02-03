@@ -1,0 +1,12 @@
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\bin\Debug\net6.0\TimeClockLibrary.deps.json
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\bin\Debug\net6.0\TimeClockLibrary.dll
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\bin\Debug\net6.0\ref\TimeClockLibrary.dll
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\bin\Debug\net6.0\TimeClockLibrary.pdb
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.csproj.AssemblyReference.cache
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.AssemblyInfoInputs.cache
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.AssemblyInfo.cs
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.csproj.CoreCompileInputs.cache
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.dll
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\ref\TimeClockLibrary.dll
+C:\Users\harukak\source\repos\ClockinLibrary\ClockinLibrary\obj\Debug\net6.0\TimeClockLibrary.pdb

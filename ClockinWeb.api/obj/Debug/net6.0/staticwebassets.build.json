@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MVCIXztbrjVzFQdRvlSl1NzzLmKf33+i118a5/xb1/I=",
+  "Source": "TimeClock.api",
+  "BasePath": "_content/TimeClock.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

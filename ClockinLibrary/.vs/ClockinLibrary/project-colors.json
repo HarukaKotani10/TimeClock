@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e623805-ef9f-41e3-9f88-898d3572c050": {
+      "ProjectGuid": "1e623805-ef9f-41e3-9f88-898d3572c050",
+      "DisplayName": "ClockinLibrary",
+      "ColorIndex": 0
+    },
+    "82d182f9-5cf9-4127-be20-c982143e1ed6": {
+      "ProjectGuid": "82d182f9-5cf9-4127-be20-c982143e1ed6",
+      "DisplayName": "Clockin.api",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
